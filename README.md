@@ -26,6 +26,13 @@ If you don't have time to waste configuring, hosting, debugging and maintaining 
 
 <a href="https://www.hookdeck.com/?ref=adnanh-webhook"><img src="http://hajdarevic.net/hookdeck-logo.svg" height="17" alt="hookdeck" align="left" /></a> If you need a way of inspecting, monitoring and replaying webhooks without the back and forth troubleshooting, [give Hookdeck a try!](https://www.hookdeck.com/?ref=adnanh-webhook)
 
+# Nango
+
+<a href="https://nango.dev/"><img src="https://assets-global.website-files.com/63c092e946f9b71ff6874169/6537d6656e33669aa1e68fff_logo.svg" height="96" alt="nango logo" align="center" /></a>
+
+Nango makes integration easy! (TODO: finalize the language)
+
+
 # Getting started
 ## Installation
 ### Building from source
